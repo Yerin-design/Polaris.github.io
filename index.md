@@ -7,4 +7,4 @@ memers:
 ---
 
 ## 프로젝트 개요
-/assets/대표이미지.png
+대표이미지.png
